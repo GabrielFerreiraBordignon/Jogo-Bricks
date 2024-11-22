@@ -1,2 +1,2 @@
 # Jogo-Bricks
-Jogo bricks feito com o unity
+Jogo bricks utilizando a Game engine Unity.
